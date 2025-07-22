@@ -8,7 +8,7 @@ android {
     compileSdk 36
 
     defaultConfig {
-        applicationId "com.driuft.androidhunt" // [J]
+        applicationId "com.driuft.androidhunt" // [P]
         minSdk 21
         targetSdk 32
         versionCode 1

@@ -12,7 +12,7 @@
         <!-- Status bar color. -->
         <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
 
-        <!-- [C] -->
+        <!-- [T] -->
 
     </style>
 </resources>
